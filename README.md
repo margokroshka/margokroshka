@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @margokroshka
-- 👀 I’m interested in Hannibal
-- 🌱 I’m currently learning of butterfly on your ass
-- 💞️ I’m looking to collaborate on BSUIR team
-- 📫 How to reach me: just ring to president of Israel
+- 👋 Hi, I’m Margaret
+- My mail: m.i.baranovskaya13@gmail.com
+- My Telegram: @Margo_Dev
+- My Skype: m.i.baranovskaya13
+- My LinkedIn: Margaret Baranovskaya
 
 <!---
 margokroshka/margokroshka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
